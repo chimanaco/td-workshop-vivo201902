@@ -1,0 +1,146 @@
+{
+    "shapeDef": {
+        "0": {
+            "layer": 0.0,
+            "parameters": {
+                "Custompivotx": 0.0,
+                "Custompivoty": 0.0,
+                "Custompivotz": 0.0,
+                "Name": "Group",
+                "Pivot": "0",
+                "Type": "Layer"
+            },
+            "path": "/project1/Kantan_mask/kantanMapper/project/allShapes/item0",
+            "type": "0"
+        },
+        "1": {
+            "layer": -1.0,
+            "parameters": {
+                "Anisotropic": "off",
+                "Bias": 0.0,
+                "Colora": 0.0,
+                "Colorb": 0.25,
+                "Colorg": 0.33974701166152954,
+                "Colorr": 0.5,
+                "Cols": 3,
+                "Custompivotuvx": 27.0,
+                "Custompivotuvy": 1.0,
+                "Custompivotuvz": 0.0,
+                "Custompivotx": -18.0,
+                "Custompivoty": 23.5,
+                "Custompivotz": 0.0,
+                "Enablesoftedge": false,
+                "Extendu": "zero",
+                "Extendv": "zero",
+                "Filter": "mipmaplinear",
+                "Fliptexture": false,
+                "Handlelock": true,
+                "Linearize": 0.0,
+                "Mapping": "perspective",
+                "Name": "Rectangle1",
+                "Pivot": "4",
+                "Pivotuv": "4",
+                "Rolloff": "halfCos",
+                "Rows": 3,
+                "Showtexture": true,
+                "Softedge": 0.6000000238418579,
+                "Softedgetype": "uniform",
+                "Steepness": 1.0,
+                "Texture": "/project1/Kantan_mask_crop/moviefilein1",
+                "Textureid": 1,
+                "Textureorientation": "0",
+                "Type": "Rectangle",
+                "Uvmatrix": "tdu.Matrix()",
+                "Warp": "bezier"
+            },
+            "path": "/project1/Kantan_mask/kantanMapper/project/allShapes/item1",
+            "shapeDef": {
+                "homography": "0.589898778977\t-0.1685540158\t-0.445868939161\r\n0.162225890564\t0.798038788482\t-0.183615833521\r\n0.336241513028\t0.228845909922\t1.0\r\n",
+                "keyOffset": "id\tu\tv\r\n0\t0.05413105385378003\t0.3163841739296913\r\n1\t-0.39221271872520447\t0.48399245738983154\r\n2\t0\t0\r\n3\t-0.5156695246696472\t-0.0037664782721549273\r\n",
+                "pointOffset": "index\tP_0_\tP_1_\tP_2_\r\n",
+                "softedgeHomography": "1\t0\t0\r\n0\t1\t0\r\n0\t0\t1.0\r\n",
+                "softedgePoints": "index\tP(0)\tP(1)\r\n0\t0\t0\r\n1\t1.0\t0.0\r\n2\t0.0\t1\r\n3\t1\t1\r\n",
+                "uvOffset": "\r\n",
+                "uvOffsetTexture": "index\tu\tv\r\n0\t0.11874999850988388\t0.39722222089767456\r\n1\t-0.42578125\t0.5208333134651184\r\n2\t0.07421875\t-0.09861111640930176\r\n3\t-0.52734375\t-0.10138887166976929\r\n"
+            },
+            "shapeXform": "tdu.Matrix([1053.0, 0.0, 0.0, 0.0, 0.0, 531.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, -18.5, 23.5, 0.0, 1.0])",
+            "type": "1"
+        },
+        "2": {
+            "layer": -2.0,
+            "parameters": {
+                "Anisotropic": "off",
+                "Bias": 0.0,
+                "Colora": 1.0,
+                "Colorb": 0.41379034519195557,
+                "Colorg": 0.25,
+                "Colorr": 0.5,
+                "Custompivotuvx": 0.0,
+                "Custompivotuvy": 0.0,
+                "Custompivotuvz": 0.0,
+                "Custompivotx": 0.0,
+                "Custompivoty": 0.0,
+                "Custompivotz": 0.0,
+                "Detail": 1.0,
+                "Enablesoftedge": false,
+                "Extendu": "zero",
+                "Extendv": "zero",
+                "Filter": "mipmaplinear",
+                "Fliptexture": false,
+                "Handlelock": true,
+                "Invertmask": false,
+                "Linearize": 0.0,
+                "Name": "Freeform2",
+                "Pivot": "4",
+                "Pivotuv": "4",
+                "Rolloff": "halfCos",
+                "Showtexture": true,
+                "Softedge": 0.0,
+                "Softedgetype": "bezier",
+                "Steepness": 1.0,
+                "Texture": "/project1/Kantan_mask/moviefilein1",
+                "Textureid": 1,
+                "Textureorientation": "0",
+                "Type": "Freeform",
+                "Uvmatrix": "tdu.Matrix()"
+            },
+            "path": "/project1/Kantan_mask/kantanMapper/project/allShapes/item2",
+            "shapeDef": {
+                "points": "index\tP(0)\tP(1)\r\n0\t228.0\t82.0\r\n1\t327\t77\r\n2\t426.0\t72.0\r\n3\t537.0\t-102.0\r\n4\t537\t-131\r\n5\t537.0\t-160.0\r\n6\t422.0\t-302.0\r\n7\t340\t-278\r\n8\t258.0\t-254.0\r\n9\t99.0\t-243.0\r\n10\t116\t-138\r\n11\t133.0\t-33.0\r\n",
+                "softedgePoints": "index\tP(0)\tP(1)\r\n0\t228.0\t82.0\r\n1\t327\t77\r\n2\t426.0\t72.0\r\n3\t537.0\t-102.0\r\n4\t537\t-131\r\n5\t537.0\t-160.0\r\n6\t422.0\t-302.0\r\n7\t340\t-278\r\n8\t258.0\t-254.0\r\n9\t99.0\t-243.0\r\n10\t116\t-138\r\n11\t133.0\t-33.0\r\n",
+                "uvOffset": "id\tu\tv\r\n0\t0.5899109244346619\t0.11011284589767456\r\n1\t-0.08046877384185791\t0.11011284589767456\r\n2\t0.5899109244346619\t-0.3930555582046509\r\n3\t-0.08046877384185791\t-0.3930555582046509\r\n"
+            },
+            "shapeXform": "tdu.Matrix()",
+            "type": "2"
+        }
+    },
+    "shapes": [
+        {
+            "sId": "0",
+            "sLayer": "0",
+            "sLock": "0",
+            "sOwner": "-1",
+            "sPath": "/project1/Kantan_mask/kantanMapper/project/allShapes/item0",
+            "sType": "0",
+            "sVisible": "1"
+        },
+        {
+            "sId": "1",
+            "sLayer": "1",
+            "sLock": "0",
+            "sOwner": "-1",
+            "sPath": "/project1/Kantan_mask/kantanMapper/project/allShapes/item1",
+            "sType": "1",
+            "sVisible": "1"
+        },
+        {
+            "sId": "2",
+            "sLayer": "2",
+            "sLock": "0",
+            "sOwner": "-1",
+            "sPath": "/project1/Kantan_mask/kantanMapper/project/allShapes/item2",
+            "sType": "2",
+            "sVisible": "1"
+        }
+    ]
+}
