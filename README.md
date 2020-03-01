@@ -1,8 +1,8 @@
 # td-workshop-vivo201902
 
-Example files for TouchDesigner for [Live Visuals at VIVO Media Arts](https://www.eventbrite.ca/e/touchdesigner-for-live-visuals-tickets-86560714427). All the file were Built on TouchDesigner 2019.20140 Win. There are [some notes for the workshop for the attendees to review what we learned](https://chimana.co/workshop/202002vivo/).  
+Example files for TouchDesigner for [Live Visuals at VIVO Media Arts](https://www.eventbrite.ca/e/touchdesigner-for-live-visuals-tickets-86560714427). All the files were built on TouchDesigner 2019.20140 Win. There are [some notes for the workshop for the attendees to review what we learned](https://chimana.co/workshop/202002vivo/).  
 
-The followings are references to build my workshop (Probably I miss some, but I would add them when I remember them).  
+The followings are references to build my workshop (Probably I missed some, but I would add them when I remember them).  
 
 * [Introduction to TouchDesigner - Ben Voigt - YouTube](https://www.youtube.com/watch?v=wmM1lCWtn6o)  
 * [Introduction · Introduction to TouchDesigner](https://nvoid.gitbooks.io/introduction-to-touchdesigner/content/)  
